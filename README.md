@@ -5,6 +5,6 @@ I am a PhD student at the University of Missouri-Columbia expected to graduate i
 
 ### My CV
 
-[https://docs.google.com/document/d/18_IkXogp-T1u-e3WCZJTIItU_YFkSX96d8YXMm0f7Js/edit?usp=sharing](url)
+[https://dorigh.github.io/resume/](url)
 ```
 
