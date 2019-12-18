@@ -4,11 +4,7 @@ I am a PhD student at the University of Missouri-Columbia expected to graduate i
 
 
 ### My CV
-[]
 
-
-**Bold** and _Italic_ and `Code` text
-
-[](url) and ![Image](src)
+[https://docs.google.com/document/d/18_IkXogp-T1u-e3WCZJTIItU_YFkSX96d8YXMm0f7Js/edit?usp=sharing](url) and ![Image](src)
 ```
 
