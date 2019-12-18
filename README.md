@@ -9,6 +9,6 @@ I am a PhD student at the University of Missouri-Columbia expected to graduate i
 
 **Bold** and _Italic_ and `Code` text
 
-[Resume_Dorsa_Ghoreishi.pdf](url) and ![Image](src)
+[https://github.com/Dorigh/Dorsa-Ghoreishi/raw/master/Resume_Dorsa_Ghoreishi.pdf](url) and ![Image](src)
 ```
 
